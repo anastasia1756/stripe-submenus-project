@@ -23,14 +23,14 @@ const Submenu = () => {
     if (links.length > 3) {
       setColumns("col-4");
     }
-  }, [location, links]);
+  }, [links, location]);
   return (
     <aside
       className={`${isSubmenuOpen ? "submenu show" : "submenu"}`}
       ref={container}
     >
       <h4>{page}</h4>
-      <div className={`submenu-center col-2`}>
+      <div className={`submenu-center ${columns}`}>
         {links.map(({ label, icon, url }, index) => (
           <a key={index} href={url}>
             {icon}
