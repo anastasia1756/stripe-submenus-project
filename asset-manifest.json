@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/stripe-submenus-project/static/css/main.58ae8225.chunk.css",
+    "main.css": "/stripe-submenus-project/static/css/main.c3b4be55.chunk.css",
     "main.js": "/stripe-submenus-project/static/js/main.d0f067cf.chunk.js",
     "main.js.map": "/stripe-submenus-project/static/js/main.d0f067cf.chunk.js.map",
     "runtime-main.js": "/stripe-submenus-project/static/js/runtime-main.b8339d2d.js",
@@ -8,9 +8,9 @@
     "static/js/2.e1e77988.chunk.js": "/stripe-submenus-project/static/js/2.e1e77988.chunk.js",
     "static/js/2.e1e77988.chunk.js.map": "/stripe-submenus-project/static/js/2.e1e77988.chunk.js.map",
     "index.html": "/stripe-submenus-project/index.html",
-    "precache-manifest.236bf05b97041ec32b63759198e95d7a.js": "/stripe-submenus-project/precache-manifest.236bf05b97041ec32b63759198e95d7a.js",
+    "precache-manifest.2460bb2cde713e7082c8a4071551f6b1.js": "/stripe-submenus-project/precache-manifest.2460bb2cde713e7082c8a4071551f6b1.js",
     "service-worker.js": "/stripe-submenus-project/service-worker.js",
-    "static/css/main.58ae8225.chunk.css.map": "/stripe-submenus-project/static/css/main.58ae8225.chunk.css.map",
+    "static/css/main.c3b4be55.chunk.css.map": "/stripe-submenus-project/static/css/main.c3b4be55.chunk.css.map",
     "static/js/2.e1e77988.chunk.js.LICENSE.txt": "/stripe-submenus-project/static/js/2.e1e77988.chunk.js.LICENSE.txt",
     "static/media/index.css": "/stripe-submenus-project/static/media/hero.8596ab4a.svg",
     "static/media/logo.svg": "/stripe-submenus-project/static/media/logo.1090473d.svg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.b8339d2d.js",
     "static/js/2.e1e77988.chunk.js",
-    "static/css/main.58ae8225.chunk.css",
+    "static/css/main.c3b4be55.chunk.css",
     "static/js/main.d0f067cf.chunk.js"
   ]
 }

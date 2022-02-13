@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "16ba6db9fd7dcb7e03a5680dc382aedb",
+    "revision": "0257e25173b0fc86468c3f8bd60d72bf",
     "url": "/stripe-submenus-project/index.html"
   },
   {
-    "revision": "724356bc1b8a6e567e31",
-    "url": "/stripe-submenus-project/static/css/main.58ae8225.chunk.css"
+    "revision": "98acc2609996b505967d",
+    "url": "/stripe-submenus-project/static/css/main.c3b4be55.chunk.css"
   },
   {
     "revision": "9d9ce4078b442a71cc60",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/stripe-submenus-project/static/js/2.e1e77988.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "724356bc1b8a6e567e31",
+    "revision": "98acc2609996b505967d",
     "url": "/stripe-submenus-project/static/js/main.d0f067cf.chunk.js"
   },
   {
